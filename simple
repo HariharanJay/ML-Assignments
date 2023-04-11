@@ -1,1 +1,28 @@
 
+Microsoft Windows [Version 10.0.22621.1413]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Hari Milky>cd ML-Assignments
+
+C:\Users\Hari Milky\ML-Assignments>git fetch
+
+C:\Users\Hari Milky\ML-Assignments>git add .
+
+C:\Users\Hari Milky\ML-Assignments>git commit -m "deleted"
+[main fbdea53] deleted
+ 1 file changed, 1 deletion(-)
+ delete mode 160000 ML-Assignments
+
+C:\Users\Hari Milky\ML-Assignments>git push origin main
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (2/2), 270 bytes | 270.00 KiB/s, done.
+Total 2 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/HariharanJay/ML-Assignments.git
+   349df3d..fbdea53  main -> main
+
+C:\Users\Hari Milky\ML-Assignments>
+C:\Users\Hari Milky\ML-Assignments>
+C:\Users\Hari Milky\ML-Assignments>
